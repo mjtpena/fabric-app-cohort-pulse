@@ -1,0 +1,107 @@
+1
+00:00:03,200 --> 00:00:06,826
+This is Cohort Pulse, a Fabric App in preview that
+
+2
+00:00:06,826 --> 00:00:10,960
+shows a facilitator how well the room is following, live.
+
+3
+00:00:11,410 --> 00:00:14,566
+Each light is one current answer, and the
+
+4
+00:00:14,566 --> 00:00:17,260
+bands read lost, unsure and got it.
+
+5
+00:00:18,385 --> 00:00:21,614
+Together the bands make one bar of the room, so lost
+
+6
+00:00:21,614 --> 00:00:24,905
+can be read against the pause line at thirty percent.
+
+7
+00:00:25,355 --> 00:00:28,143
+The pulse line beats faster as more of the room is
+
+8
+00:00:28,143 --> 00:00:31,155
+lost, and nothing on this screen says who tapped what.
+
+9
+00:00:31,961 --> 00:00:35,263
+Lenses redraw the same totals: every module side by
+
+10
+00:00:35,263 --> 00:00:38,241
+side, then the trend across the whole session.
+
+11
+00:00:42,271 --> 00:00:45,292
+Today ranks what needs me now, and picking
+
+12
+00:00:45,292 --> 00:00:47,521
+an item focuses the room on it.
+
+13
+00:00:47,971 --> 00:00:51,131
+Three people are active but have not answered this module yet.
+
+14
+00:00:51,935 --> 00:00:56,445
+Participants check in with a six-character code and get three big buttons.
+
+15
+00:00:56,895 --> 00:01:01,035
+Sam taps Lost and asks for a worked example in a short note.
+
+16
+00:01:02,558 --> 00:01:05,946
+Back on the pulse, three of ten are lost, so the
+
+17
+00:01:05,946 --> 00:01:09,758
+room's light warms and a calm prompt suggests a pause.
+
+18
+00:01:10,208 --> 00:01:12,228
+The note arrives without a name.
+
+19
+00:01:13,034 --> 00:01:16,163
+When I share my screen, viewing as Room hides
+
+20
+00:01:16,163 --> 00:01:19,084
+the notes and shows the join code instead.
+
+21
+00:01:20,224 --> 00:01:23,229
+Moving on starts the next module fresh, and
+
+22
+00:01:23,229 --> 00:01:26,304
+every screen catches up within five seconds.
+
+23
+00:01:27,104 --> 00:01:30,226
+After closing, the session report ranks modules by
+
+24
+00:01:30,226 --> 00:01:33,224
+confusion; yesterday, Memory lost half the room.
+
+25
+00:01:33,674 --> 00:01:38,034
+Copy as Markdown drops the whole report into a follow-up email.
+
+26
+00:01:38,837 --> 00:01:41,354
+Cohort Pulse: know when the room is
+
+27
+00:01:41,354 --> 00:01:43,727
+lost before anyone has to say so.
