@@ -111,7 +111,7 @@ export function AboutPage() {
         </p>
       </Block>
 
-      <p className="m-0 border-t border-line pt-5 text-ui text-muted">Built by Datachain Consulting for AI @Work. Runs on Microsoft Fabric Apps (preview).</p>
+      <p className="m-0 border-t border-line pt-5 text-ui text-muted">Built by Datachain Consulting for AI @Work. Runs on Microsoft Fabric Apps.</p>
     </div>
   );
 }

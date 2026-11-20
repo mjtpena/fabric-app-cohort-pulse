@@ -1,107 +1,107 @@
 1
-00:00:03,200 --> 00:00:06,826
-This is Cohort Pulse, a Fabric App in preview that
+00:00:03,209 --> 00:00:06,762
+This is Cohort Pulse, a Fabric App that shows
 
 2
-00:00:06,826 --> 00:00:10,960
-shows a facilitator how well the room is following, live.
+00:00:06,762 --> 00:00:10,789
+a facilitator how well the room is following, live.
 
 3
-00:00:11,410 --> 00:00:14,566
+00:00:11,239 --> 00:00:14,395
 Each light is one current answer, and the
 
 4
-00:00:14,566 --> 00:00:17,260
+00:00:14,395 --> 00:00:17,089
 bands read lost, unsure and got it.
 
 5
-00:00:18,385 --> 00:00:21,614
+00:00:18,153 --> 00:00:21,382
 Together the bands make one bar of the room, so lost
 
 6
-00:00:21,614 --> 00:00:24,905
+00:00:21,382 --> 00:00:24,673
 can be read against the pause line at thirty percent.
 
 7
-00:00:25,355 --> 00:00:28,143
+00:00:25,123 --> 00:00:27,911
 The pulse line beats faster as more of the room is
 
 8
-00:00:28,143 --> 00:00:31,155
+00:00:27,911 --> 00:00:30,923
 lost, and nothing on this screen says who tapped what.
 
 9
-00:00:31,961 --> 00:00:35,263
+00:00:31,727 --> 00:00:35,029
 Lenses redraw the same totals: every module side by
 
 10
-00:00:35,263 --> 00:00:38,241
+00:00:35,029 --> 00:00:38,007
 side, then the trend across the whole session.
 
 11
-00:00:42,271 --> 00:00:45,292
+00:00:41,954 --> 00:00:44,975
 Today ranks what needs me now, and picking
 
 12
-00:00:45,292 --> 00:00:47,521
+00:00:44,975 --> 00:00:47,204
 an item focuses the room on it.
 
 13
-00:00:47,971 --> 00:00:51,131
+00:00:47,654 --> 00:00:50,814
 Three people are active but have not answered this module yet.
 
 14
-00:00:51,935 --> 00:00:56,445
+00:00:51,623 --> 00:00:56,133
 Participants check in with a six-character code and get three big buttons.
 
 15
-00:00:56,895 --> 00:01:01,035
+00:00:56,583 --> 00:01:00,723
 Sam taps Lost and asks for a worked example in a short note.
 
 16
-00:01:02,558 --> 00:01:05,946
+00:01:02,367 --> 00:01:05,755
 Back on the pulse, three of ten are lost, so the
 
 17
-00:01:05,946 --> 00:01:09,758
+00:01:05,755 --> 00:01:09,567
 room's light warms and a calm prompt suggests a pause.
 
 18
-00:01:10,208 --> 00:01:12,228
+00:01:10,017 --> 00:01:12,037
 The note arrives without a name.
 
 19
-00:01:13,034 --> 00:01:16,163
+00:01:12,838 --> 00:01:15,967
 When I share my screen, viewing as Room hides
 
 20
-00:01:16,163 --> 00:01:19,084
+00:01:15,967 --> 00:01:18,888
 the notes and shows the join code instead.
 
 21
-00:01:20,224 --> 00:01:23,229
+00:01:20,025 --> 00:01:23,030
 Moving on starts the next module fresh, and
 
 22
-00:01:23,229 --> 00:01:26,304
+00:01:23,030 --> 00:01:26,105
 every screen catches up within five seconds.
 
 23
-00:01:27,104 --> 00:01:30,226
+00:01:26,905 --> 00:01:30,027
 After closing, the session report ranks modules by
 
 24
-00:01:30,226 --> 00:01:33,224
+00:01:30,027 --> 00:01:33,025
 confusion; yesterday, Memory lost half the room.
 
 25
-00:01:33,674 --> 00:01:38,034
+00:01:33,475 --> 00:01:37,835
 Copy as Markdown drops the whole report into a follow-up email.
 
 26
-00:01:38,837 --> 00:01:41,354
+00:01:38,640 --> 00:01:41,157
 Cohort Pulse: know when the room is
 
 27
-00:01:41,354 --> 00:01:43,727
+00:01:41,157 --> 00:01:43,530
 lost before anyone has to say so.

@@ -4,7 +4,7 @@ A one-tap understanding check for virtual training. Participants join with a sho
 or **Got it** as the session moves through its modules. The facilitator watches the room's heartbeat, gets a calm
 "consider pausing" moment when 30 % of the room is lost, and a session report afterwards that ranks modules by
 confusion. Privacy by design on screen: the app shows the facilitator totals, never names (see Known limits for what
-the database exposes). A Fabric App (preview) built by Datachain Consulting for AI @Work.
+the database exposes). A Fabric App built by Datachain Consulting for AI @Work.
 
 ![Screenshot](docs/screenshot.png)
 
@@ -35,7 +35,7 @@ they are drawn from totals and reshuffle when totals change.
 
 ## 2. Prerequisites
 
-- Microsoft Fabric with the **Fabric Apps** workload enabled for your tenant (preview).
+- Microsoft Fabric with the **Fabric Apps** workload enabled for your tenant.
 - A workspace on a Fabric capacity, and **Edit** permission (Contributor or higher) on it.
 - Node.js 20 or later.
 - **Audience.** Deployed apps accept Fabric sign-in (Microsoft Entra ID) only, and every participant needs access to the

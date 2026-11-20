@@ -9,7 +9,7 @@ export const script: DemoScript = {
     {
       id: 'hook',
       say: [
-        'This is Cohort Pulse, a Fabric App in preview that shows a facilitator how well the room is following, live.',
+        'This is Cohort Pulse, a Fabric App that shows a facilitator how well the room is following, live.',
         'Each light is one current answer, and the bands read lost, unsure and got it.',
       ],
       async run(h) {
